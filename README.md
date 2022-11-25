@@ -12,7 +12,7 @@ We share our numerical computation code online:
 
 # Simulation Code
 
-The simulation code is also available in this repo [[click here]](...).
+The simulation code is also available in this repo [[click here]](https://github.com/cfoh/beam-analysis/blob/not-yet-available).
 The simulation code requires 
 [![Pymosim v0.8.8](https://img.shields.io/badge/Pymosim-v0.8.8-brightgreen)](https://cfoh.github.io/pymosim-doc/start.html) 
 platform to run. We plan to open the source of Pymosim soon.
