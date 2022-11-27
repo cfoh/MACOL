@@ -8,7 +8,7 @@ In this repo, we provide the numarical computation of beam analysis we presented
 
 We share our numerical computation code online:
 [Beam Analysis.ipynb](https://colab.research.google.com/drive/1Coy1dabcAHLq0Dn0PEpHJJAWnmnauhWd?usp=sharing)
-(powered by [![Google Colab](https://img.shields.io/badge/Google-Colab-yellow)](https://colab.research.google.com/drive/1Coy1dabcAHLq0Dn0PEpHJJAWnmnauhWd?usp=sharing))
+on [![Google Colab](https://img.shields.io/badge/Google-Colab-yellow)](https://colab.research.google.com/drive/1Coy1dabcAHLq0Dn0PEpHJJAWnmnauhWd?usp=sharing)
 
 # Simulation Code
 
