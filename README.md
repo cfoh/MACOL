@@ -14,6 +14,8 @@ on [![Google Colab](https://img.shields.io/badge/Google-Colab-yellow)](https://c
 
 # Simulation Code
 
+<img src="https://github.com/cfoh/beam-analysis/blob/main/sim-demo.gif" width="300">
+
 The simulation code is also available in this repo [[click here]](https://github.com/cfoh/beam-analysis/blob/not-yet-available).
 The simulation code requires 
 [![Pymosim v0.8.8](https://img.shields.io/badge/Pymosim-v0.8.8-brightgreen)](https://cfoh.github.io/pymosim-doc/start.html) 
