@@ -1,10 +1,8 @@
 # Introduction
 
-In this repo, we provide the numarical computation of beam analysis we presented in our submitted paper:
+In this repo, we provide the numarical computation of beam analysis we presented in our paper:
 - A. Kose, H. Lee, C. H. Foh, M. Shojafar, "Multi-Agent Context Learning Bandit for Interference-Aware Beam 
-  Allocation in mmWave Vehicular Communications," submitted.
-  
-> **Note**: If the paper is accepted for publication, we plan to keep this repo public after the publication.
+  Allocation in mmWave Vehicular Communications," to appear in IEEE Transactions on Intelligent Transportation Systems.
  
 # Numerical Validation
 
