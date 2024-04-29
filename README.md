@@ -32,4 +32,6 @@ Meanwhile, you can inspect the simulation code and understand the simulation set
 
 # Simple Toy Example
 
+You can find a simple toy example implementing MACOL [here](https://github.com/cfoh/MACOL/tree/main/toy-example). 
+The toy example is self-contained and only requires pygame package to run.
 
