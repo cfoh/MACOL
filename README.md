@@ -35,3 +35,6 @@ Meanwhile, you can inspect the simulation code and understand the simulation set
 You can find a simple toy example implementing MACOL [here](https://github.com/cfoh/MACOL/tree/main/toy-example). 
 The toy example is self-contained and only requires pygame package to run.
 
+The following is a comparison between greedy (top) and MACOL (bottom) approaches. As can be seen, MACOL reduces the aggressiveness of the transmissions, leading to less intensive interference and more successful transmissions.
+
+<img src="https://github.com/cfoh/MACOL/blob/main/toy-example/demo.gif" width="300">
