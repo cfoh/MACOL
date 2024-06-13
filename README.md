@@ -9,8 +9,8 @@
 
 In this repo, we provide the numarical computation of beam analysis we presented in our paper:
 - [![PDF](https://github.com/cfoh/MACOL/blob/main/PDF_file_icon.svg)](https://arxiv.org/abs/2401.02323)
-  A. Kose, H. Lee, C. H. Foh, M. Shojafar, "Multi-Agent Context Learning Bandit for Interference-Aware Beam 
-  Allocation in mmWave Vehicular Communications," to appear in IEEE Transactions on Intelligent Transportation Systems.
+  A. Kose, H. Lee, C. H. Foh, M. Shojafar, "Multi-Agent Context Learning Strategy for Interference-Aware Beam Allocation in
+  mmWave Vehicular Communications," to appear in IEEE Transactions on Intelligent Transportation Systems.
   [[arXiv]](https://arxiv.org/abs/2401.02323)
  
 # Numerical Validation
