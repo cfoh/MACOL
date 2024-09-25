@@ -10,7 +10,7 @@
 In this repo, we provide the numarical computation of beam analysis we presented in our paper:
 - [![PDF](https://github.com/cfoh/MACOL/blob/main/PDF_file_icon.svg)](https://arxiv.org/abs/2401.02323)
   A. Kose, H. Lee, C. H. Foh, M. Shojafar, "Multi-Agent Context Learning Strategy for Interference-Aware Beam Allocation in
-  mmWave Vehicular Communications," to appear in IEEE Transactions on Intelligent Transportation Systems.
+  mmWave Vehicular Communications," vol. 25, no. 7, pp. 7477-7493, July 2024, doi: 10.1109/TITS.2024.3351488.
   [[arXiv]](https://arxiv.org/abs/2401.02323)
 
 ## Citation
@@ -20,9 +20,9 @@ In this repo, we provide the numarical computation of beam analysis we presented
   journal={IEEE Transactions on Intelligent Transportation Systems}, 
   title={Multi-Agent Context Learning Strategy for Interference-Aware Beam Allocation in mmWave Vehicular Communications}, 
   year={2024},
-  volume={},
-  number={},
-  pages={1-17},
+  volume={25},
+  number={7},
+  pages={7477-7493},
   keywords={Interference;Millimeter wave communication;Array signal processing;Switches;Vehicle-to-everything;Throughput;Receivers;Vehicular networks;mmWave;beam management;machine learning;multi-armed bandit},
   doi={10.1109/TITS.2024.3351488}}
 ```
